@@ -9,9 +9,9 @@
   <p align="center"> <img src="https://github.com/CLIPP3DWINGS/CLIPP3DWINGS/blob/c450b982e643b95d8a1eb7d4438151be2d8ad52c/442%20sin%20t%C3%ADtulo_20260801025848.png" width="500"/>
 
 
-<p align="Left"> <a href="https://timeless.atabook.org/?page=1">
+<p align="center"> <a href="https://timeless.atabook.org/?page=1">
   <img src="https://github.com/CLIPP3DWINGS/CLIPP3DWINGS/blob/ac51dec32baaca1305315bca094da9b1e1f20e44/442%20sin%20t%C3%ADtulo_20260801042341.png" width="500">
-  </a>
+</a>
 
 <p align="center"> <img src="https://github.com/CLIPP3DWINGS/CLIPP3DWINGS/blob/1f78a48045b560bc80b8e99691888f3b0f3ac6dc/442%20sin%20t%C3%ADtulo_20260801030940.png" width="900"/> 
 
