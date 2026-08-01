@@ -4,7 +4,7 @@
 
 
 <img src="https://github.com/CLIPP3DWINGS/CLIPP3DWINGS/blob/e445a231585658c1fb0a16d5c537cb20fd84c4ed/449%20sin%20t%C3%ADtulo_20260731220923.png" width="700"/>
-<p align="center">Timeless or Time</p>
+<img src="https://github.com/CLIPP3DWINGS/CLIPP3DWINGS/blob/c450b982e643b95d8a1eb7d4438151be2d8ad52c/442%20sin%20t%C3%ADtulo_20260801025848.png" width="500"/>
 
 
 
