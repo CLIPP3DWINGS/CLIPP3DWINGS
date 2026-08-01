@@ -26,4 +26,6 @@
 
 <p align="Left"> <a href="https://github.com/puphacker">
   <img src="https://github.com/CLIPP3DWINGS/CLIPP3DWINGS/blob/dc8c15036a9090f78a1242a8c23b244a17040b14/440%20sin%20t%C3%ADtulo_20260801020201.png" width="200">
+  </a>  <p align="center"> <a href="https://github.com/housepanther">
+  <img src="https://github.com/WINGCLIPPING/WINGCLIPPING/blob/ff9af796c50fa21f6a18dea64856f6e03a9240f9/440%20sin%20t%C3%ADtulo_20260801063056.png" width="200">
   </a>
