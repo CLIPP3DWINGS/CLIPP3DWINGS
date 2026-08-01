@@ -8,6 +8,9 @@
 
 
 
+ 
+ 
+ 
  <a href="https://github.com/puphacker">
   <img src="https://github.com/CLIPP3DWINGS/CLIPP3DWINGS/blob/dc8c15036a9090f78a1242a8c23b244a17040b14/440%20sin%20t%C3%ADtulo_20260801020201.png" width="200">
   </a>
