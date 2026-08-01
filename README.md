@@ -14,12 +14,11 @@
 </a>
 
 
-<p align="center">
+<p align="center"> <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xhjiviljliz5m2hy2uc5asqn7a&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xhjiviljliz5m2hy2uc5asqn7a&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=true&profanity=false&hide_remaster=false&bar_color=fac2ff&bar_color_cover=true&mode=dark">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xhjiviljliz5m2hy2uc5asqn7a&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ffbae5&bar_color_cover=true">
   </a>
 </p>
-
 
 <p align="center"> <img src="https://github.com/CLIPP3DWINGS/CLIPP3DWINGS/blob/1f78a48045b560bc80b8e99691888f3b0f3ac6dc/442%20sin%20t%C3%ADtulo_20260801030940.png" width="900"/> 
 
