@@ -3,4 +3,4 @@
 
 
 
-<img src="https://github.com/CLIPP3DWINGS/SPYGLASS/blob/9b29fb74ddd626abff5e10b224493abaaa77bbd3/449%20sin%20t%C3%ADtulo_20260731220923.png" width="700"/>
+<img src="https://github.com/CLIPP3DWINGS/CLIPP3DWINGS/blob/e445a231585658c1fb0a16d5c537cb20fd84c4ed/449%20sin%20t%C3%ADtulo_20260731220923.png" width="700"/>
