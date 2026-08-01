@@ -1,4 +1,4 @@
-## HAVOC DUO!! 
+## SPYGLASS
 
 
 <p align="center"> <img src="https://github.com/CLIPP3DWINGS/CLIPP3DWINGS/blob/b89fc8becfa4daa69e721198286ce3c34152dcff/453%20sin%20t%C3%ADtulo_20260801031247.png" width="900"/> 
