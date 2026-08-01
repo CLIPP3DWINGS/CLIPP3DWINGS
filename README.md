@@ -27,4 +27,5 @@
 <p align="Left"> <a href="https://github.com/puphacker">
   <img src="https://github.com/CLIPP3DWINGS/CLIPP3DWINGS/blob/dc8c15036a9090f78a1242a8c23b244a17040b14/440%20sin%20t%C3%ADtulo_20260801020201.png" width="200">  </a>  <p align="center"> <a href="https://github.com/housepanther">
   <img src="https://github.com/WINGCLIPPING/WINGCLIPPING/blob/5a1f09acb8f1a3f56aae1d90d94f7ed560e059c3/440%20sin%20t%C3%ADtulo_0000-57-16_20260801064022.png" width="200">
-  </a>
+  </a> <p align="right"> <a href="https://github.com/ElijahNiccky">
+  <img src="https://github.com/WINGCLIPPING/WINGCLIPPING/blob/6b9a09873b86cdedd5c8cf731791d3fe5e38475c/440%20sin%20t%C3%ADtulo_20260801203651.png" width="200">  </a>  
