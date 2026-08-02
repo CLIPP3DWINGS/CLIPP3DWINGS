@@ -9,7 +9,7 @@
   <p align="center"> <img src="https://github.com/WINGCLIPPING/WINGCLIPPING/blob/c480f622622cd957698ab4e472274ccea3bdafa1/453%20sin%20t%C3%ADtulo_20260801231139.png" width="500"/>
 
 
-<p align="center"> <a href="https://timeless.atabook.org/?page=1">
+<p align="center"> <a href="wip">
   <img src="https://github.com/CLIPP3DWINGS/CLIPP3DWINGS/blob/ac51dec32baaca1305315bca094da9b1e1f20e44/442%20sin%20t%C3%ADtulo_20260801042341.png" width="500">
 </a>
 
